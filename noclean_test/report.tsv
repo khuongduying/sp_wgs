@@ -1,0 +1,4 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+08	08	0	0	659	25578	cluster	12068	12068	99.98	cluster.l15.c4.ctg.1	12862	198.3	0	.	n	.	0	G2850A	SNP	2850	2850	G	3194	3194	A	212	A,G	181,9	.	.
+08	08	0	0	659	25578	cluster	12068	12068	99.98	cluster.l15.c4.ctg.1	12862	198.3	0	.	n	.	0	A3542G	SNP	3542	3542	A	3886	3886	G	201	G,A	177,7	.	.
+08	08	0	0	659	25578	cluster	12068	12068	99.98	cluster.l15.c4.ctg.1	12862	198.3	0	HET	.	.	.	T4180G	.	4180	4180	T	4524	4524	T	225	T,G	122,81	.	.

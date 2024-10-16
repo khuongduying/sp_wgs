@@ -1,0 +1,3 @@
+# Exclude heavy database
+database/
+database2/
